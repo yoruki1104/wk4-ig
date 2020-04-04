@@ -1,0 +1,32 @@
+{
+    "homeTitle":"insta",
+    "postList":[
+        {
+            "id":"ebifurai_no_shibbo",
+            "profile":"https://github.com/yoruki1104/wk4-ig/blob/master/img/post/img_profile1.png?raw=true",
+            "main_img":"https://github.com/yoruki1104/wk4-ig/blob/master/img/post/img_main1.png?raw=true",
+            "like":"1055 ",
+            "content":"  和@donkatsu_iiniku一起洗油浴 ·-·",
+            "comment":" 35 ",
+            "time":"22 hours"
+        },
+        {
+            "id":"shirokuma_artist123",
+            "profile":"https://github.com/yoruki1104/wk4-ig/blob/master/img/post/img_profile2.png?raw=true",
+            "main_img":"https://github.com/yoruki1104/wk4-ig/blob/master/img/post/img_main2.png?raw=true",
+            "like":"650 ",
+            "content":"  疫情好可怕啊><大家出門記得戴口罩喔~",
+            "comment":" 13 ",
+            "time":"3 days"
+        },
+        {
+            "id":"neko_mioawCat456   ",
+            "profile":"https://github.com/yoruki1104/wk4-ig/blob/master/img/post/img_profile3.png?raw=true",
+            "main_img":"https://github.com/yoruki1104/wk4-ig/blob/master/img/post/img_main3.png?raw=true",
+            "like":"997 ",
+            "content":"草莓真好吃~下次還想跟大家一起來",
+            "comment":" 46 ",
+            "time":"1 week"
+        }
+    ]
+}

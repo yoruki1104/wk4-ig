@@ -1,0 +1,16 @@
+{
+    "HomePage":
+        {
+            "HeaderLeftUrl":"https://github.com/yoruki1104/wk4-ig/blob/master/img/post/home_headerleft.png?raw=true",
+            "HeaderRightUrl":"https://github.com/yoruki1104/wk4-ig/blob/master/img/post/btn_send.png?raw=true",
+            "bottomImage":"https://github.com/yoruki1104/wk4-ig/blob/master/img/post/bottom_bar.png?raw=true"
+        },
+
+    "MessagePage":
+        {
+            "HeaderLeftUrl":"https://github.com/yoruki1104/wk4-ig/blob/master/img/message/headerLeft.png?raw=true",
+            "HeaderRightUrl":"https://github.com/yoruki1104/wk4-ig/blob/master/img/message/Ms_header_Right.png?raw=true",
+            "bottomImage":"https://github.com/yoruki1104/wk4-ig/blob/master/img/message/btn_camera.png?raw=true"
+        }
+    
+}
